@@ -1,4 +1,4 @@
-# Tic Tac Toe Game in C
+# Tic Tac Toe Game Using Python
 ## Discription :-
 Here, I have created a Tic-tac-toe game using Python language.
 This game is similar to my other [Tic-tac-toe](https://github.com/MaliDipak/tic_tac_toe-game-in-C) game that I created using C language.
